@@ -1,1 +1,2 @@
 02[[:space:]]Data/**/* filter=lfs diff=lfs merge=lfs -text
+02/Data/**/* filter=lfs diff=lfs merge=lfs -text
